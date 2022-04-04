@@ -9,6 +9,7 @@ Benefícios da tipagem estática
 Mais configurações do compilador tsc
 Retorno de método explícito facilitando o entendimento dos metodos
 Conversão de valores da interface do usuário
+
 /-----------------------------------//--------------------------------------------------//------------------------------------------//------------------------
 Modelagem da classe Negociacoes
 Utilização de Generics
